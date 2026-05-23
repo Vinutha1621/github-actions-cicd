@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1779540233,,"wq!"
+|2,0,1779540560,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,36 @@
 # Registers:
 
 # File marks:
-'0  103  39  ~/.github/workflows/cicd.yml
-|4,48,103,39,1779540233,"~/.github/workflows/cicd.yml"
-'1  31  47  ~/.github/workflows/cicd.yml
-|4,49,31,47,1779540120,"~/.github/workflows/cicd.yml"
-'2  31  47  ~/.github/workflows/cicd.yml
-|4,50,31,47,1779540120,"~/.github/workflows/cicd.yml"
-'3  103  41  ~/.github/workflows/cicd.yml
-|4,51,103,41,1779540019,"~/.github/workflows/cicd.yml"
-'4  103  41  ~/.github/workflows/cicd.yml
-|4,52,103,41,1779540019,"~/.github/workflows/cicd.yml"
-'5  103  41  ~/.github/workflows/cicd.yml
-|4,53,103,41,1779540019,"~/.github/workflows/cicd.yml"
-'6  103  27  ~/.github/workflows/cicd.yml
-|4,54,103,27,1779538667,"~/.github/workflows/cicd.yml"
-'7  103  27  ~/.github/workflows/cicd.yml
-|4,55,103,27,1779538667,"~/.github/workflows/cicd.yml"
-'8  103  27  ~/.github/workflows/cicd.yml
-|4,56,103,27,1779538667,"~/.github/workflows/cicd.yml"
-'9  103  27  ~/.github/workflows/cicd.yml
-|4,57,103,27,1779538667,"~/.github/workflows/cicd.yml"
+'0  1  46  ~/.github/workflows/cicd.yml
+|4,48,1,46,1779540560,"~/.github/workflows/cicd.yml"
+'1  103  39  ~/.github/workflows/cicd.yml
+|4,49,103,39,1779540233,"~/.github/workflows/cicd.yml"
+'2  103  39  ~/.github/workflows/cicd.yml
+|4,50,103,39,1779540233,"~/.github/workflows/cicd.yml"
+'3  31  47  ~/.github/workflows/cicd.yml
+|4,51,31,47,1779540120,"~/.github/workflows/cicd.yml"
+'4  31  47  ~/.github/workflows/cicd.yml
+|4,52,31,47,1779540120,"~/.github/workflows/cicd.yml"
+'5  31  47  ~/.github/workflows/cicd.yml
+|4,53,31,47,1779540120,"~/.github/workflows/cicd.yml"
+'6  31  47  ~/.github/workflows/cicd.yml
+|4,54,31,47,1779540120,"~/.github/workflows/cicd.yml"
+'7  103  41  ~/.github/workflows/cicd.yml
+|4,55,103,41,1779540019,"~/.github/workflows/cicd.yml"
+'8  103  41  ~/.github/workflows/cicd.yml
+|4,56,103,41,1779540019,"~/.github/workflows/cicd.yml"
+'9  103  41  ~/.github/workflows/cicd.yml
+|4,57,103,41,1779540019,"~/.github/workflows/cicd.yml"
 
 # Jumplist (newest first):
+-'  1  46  ~/.github/workflows/cicd.yml
+|4,39,1,46,1779540560,"~/.github/workflows/cicd.yml"
+-'  103  39  ~/.github/workflows/cicd.yml
+|4,39,103,39,1779540315,"~/.github/workflows/cicd.yml"
 -'  103  39  ~/.github/workflows/cicd.yml
 |4,39,103,39,1779540233,"~/.github/workflows/cicd.yml"
+-'  31  47  ~/.github/workflows/cicd.yml
+|4,39,31,47,1779540191,"~/.github/workflows/cicd.yml"
 -'  31  47  ~/.github/workflows/cicd.yml
 |4,39,31,47,1779540191,"~/.github/workflows/cicd.yml"
 -'  31  47  ~/.github/workflows/cicd.yml
@@ -135,6 +141,70 @@
 |4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
 -'  5  6  ~/github-actions-cicd/Dockerfile
 |4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
+-'  5  6  ~/github-actions-cicd/Dockerfile
+|4,39,5,6,1779534584,"~/github-actions-cicd/Dockerfile"
 -'  3  22  ~/github-actions-cicd/Dockerfile
 |4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
 -'  3  22  ~/github-actions-cicd/Dockerfile
@@ -177,89 +247,21 @@
 |4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
 -'  3  22  ~/github-actions-cicd/Dockerfile
 |4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534573,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
--'  3  22  ~/github-actions-cicd/Dockerfile
-|4,39,3,22,1779534516,"~/github-actions-cicd/Dockerfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/.github/workflows/cicd.yml
-	*	1779540232	0
-	"	103	39
-	^	103	40
-	.	34	39
+	*	1779540559	0
+	"	1	46
+	^	1	47
+	.	65	53
 	+	103	41
 	+	12	33
 	+	10	27
 	+	31	47
 	+	34	39
+	+	64	13
+	+	65	53
 
 > ~/github-actions-cicd/Dockerfile
 	*	1779534581	0
