@@ -9,7 +9,7 @@ on:
 env:
   AWS_REGION: ap-southeast-2
   ECR_REPOSITORY: github-actions-cicd
-  ECS_CLUSTER: github-actions-cluster
+  ECS_CLUSTER: github-actions-cicd-cluster
   ECS_SERVICE: github-actions-service
   CONTAINER_NAME: app
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
